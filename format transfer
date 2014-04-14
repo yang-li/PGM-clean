@@ -1,0 +1,4 @@
+First of all, you need to transfer the format.
+
+The format from PGM you can get officially was bam. You can use PICARD or Samtools to deal with. Anyway fastq format will be
+essential for this workflow. So figure out how to transfer bam to fastq! 
